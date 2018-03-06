@@ -12,7 +12,10 @@ How does the machinery to produce sugarcubes work ?
 - posted by: [starblue](https://stackexchange.com/users/-1/107-starblue) on 2011-04-22
 - score: 1
 
-How does the machinery to produce sugarcubes work ? 
+Fine sugar is made slightly wet, pressed into shape and then dried.
+
+From the German Wikipedia entry on 
+<a href="http://de.wikipedia.org/wiki/W%C3%BCrfelzucker#Herstellung">cube sugar</a>.
 
 
 

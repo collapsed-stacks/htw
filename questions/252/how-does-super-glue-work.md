@@ -14,9 +14,8 @@ EDIT: and how is this different from normal glue, or wood glue?
 - posted by: [mgb](https://stackexchange.com/users/-1/15-mgb) on 2011-04-20
 - score: 5
 
-Super glue is EXTREMELY strong and very quick to solidify. How exactly does it outmatch regular glue? I'm guessing it has something to do with the surface area it can cover?
+It is a small molecule and can get into small spaces where the solvent then evaporates giving the glue very good contact to the surface materials - it then polymerizes (joins together into  long chains) which joins the two surfaces with a very strong bond.
 
-EDIT: and how is this different from normal glue, or wood glue?
 
 
 

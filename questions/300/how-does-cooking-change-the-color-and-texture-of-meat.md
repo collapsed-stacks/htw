@@ -12,7 +12,13 @@ Why does meat change colour and texture when you cook it?
 - posted by: [bubu](https://stackexchange.com/users/-1/109-bubu) on 2011-04-21
 - score: 1
 
-Why does meat change colour and texture when you cook it?
+during cooking, esp. in red meat, two things happen:
+
+- the meat become more opaque
+- the meat changes from bright red to pinkish to grayish
+
+the opacity is due to simple denaturation of protein resulting in a opaque product.
+the red -> pink -> gray is due to myoglobin[red] -> metmyoglobin[gray] (oxidation) and also oxidation of the iron linked to myoglobin.
 
 
 

@@ -12,7 +12,9 @@ How does a sewing machine work when it doesn't have a free end to sew with, only
 - posted by: [StasM](https://stackexchange.com/users/-1/19-stasm) on 2011-04-18
 - score: 2
 
-How does a sewing machine work when it doesn't have a free end to sew with, only a loop of thread? The free end of the thread must be left behind where the stitch started.
+<p>This picture helped me to understand how it works:
+<img src="http://i.imgur.com/AKHlF.gif" alt="enter image description here"></p>
+
 
 
 

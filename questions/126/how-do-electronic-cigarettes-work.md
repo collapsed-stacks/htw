@@ -12,7 +12,7 @@ The question is in the title. More specifically how does the vaporizer work, and
 - posted by: [Jacob](https://stackexchange.com/users/-1/28-jacob) on 2011-04-19
 - score: 2
 
-The question is in the title. More specifically how does the vaporizer work, and what is the substance they are vaporizing?
+The vaporizer is really just a heating element, which heats up the liquid in the container and turns into a gaseous state. Normally, all that is in it is propylene glycol(additive recognized safe by the US FDA), Nicotine,and any favoring or additives that come with flavoring.
 
 
 

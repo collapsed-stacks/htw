@@ -14,9 +14,13 @@ How does a traditional traffic signal, with a wire in the pavement at the stop l
 - posted by: [geoffc](https://stackexchange.com/users/-1/34-geoffc) on 2011-04-18
 - score: 6
 
-How does a traditional traffic signal, with a wire in the pavement at the stop line, detect when a vehicle is sitting at the stop line?
+Underneath the pavement (often a narrow channel is carved out rather than actually digging out the entire surface) and a conductive loop is lain out.  
 
-*By stop line, I mean the thick white line that marks where you should stop without going into the intersection (in the US)*
+When a sufficiently large body of metal moves over it, it induces a current which the sensor decides is a car. 
+
+This means a person should not be able to trigger such a thing.
+
+A bicycle does not have sufficient metal, usually, to trigger these (Especially if you were riding a carbon fibre bike) though I am told that in high bicycle riding areas (Denver for some odd reason is the example I have heard) they can tune the sensitivity such that most bikes will trigger the sensor.
 
 
 ## Answer 16
@@ -24,9 +28,11 @@ How does a traditional traffic signal, with a wire in the pavement at the stop l
 - posted by: [txwikinger](https://stackexchange.com/users/-1/40-txwikinger) on 2011-04-18
 - score: 5
 
-How does a traditional traffic signal, with a wire in the pavement at the stop line, detect when a vehicle is sitting at the stop line?
+There are several different ways to detect that a car is stopping at the stop line of a traffic signal.
 
-*By stop line, I mean the thick white line that marks where you should stop without going into the intersection (in the US)*
+The most common one is a sensor that is put underneath the pavement which works by detecting the changes of the magnetic field it emits. A car has a lot of metal and hence influences this magnetic field when it stands on top of this sensor.
+
+Some traffic lights also use motion detectors similar to sensors that are used in burglary alarm systems in houses.
 
 
 

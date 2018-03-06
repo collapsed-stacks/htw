@@ -14,9 +14,9 @@ I understand how traditional spinning disk hard drives work, but not drives with
 - posted by: [txwikinger](https://stackexchange.com/users/-1/40-txwikinger) on 2011-04-18
 - score: 3
 
-How does a Solid State Disk (SSD) in a computer store and retrieve data?  
+A solid state disk has no moving components because the information is stored in non-volatile memory chips. In order to increase the speed of the drives, they often also have a volatile memory to especially buffer the write requests.
 
-I understand how traditional spinning disk hard drives work, but not drives without any moving parts.
+In a simplistic view, a SSD drive is a fancy usb stick that communicates via SATA instead of USB.
 
 
 

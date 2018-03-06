@@ -12,7 +12,9 @@ How does old style camera film work? How can you make colour pictures out of som
 - posted by: [Pearsonartphoto](https://stackexchange.com/users/-1/67-pearsonartphoto) on 2011-04-21
 - score: 2
 
-How does old style camera film work? How can you make colour pictures out of some plastic exposed to light?
+There are certain chemicals, when exposed to the right light, change it's chemical properties. When ran through a developer, and other similar chemicals, the chemical changes will become permanent, and actually reversible, ie, you shine light through the film, the film will look like the original image.
+
+The way that color film works is by combining 3 different types of chemicals, in such a way that one represents red, one blue, and one green.
 
 
 

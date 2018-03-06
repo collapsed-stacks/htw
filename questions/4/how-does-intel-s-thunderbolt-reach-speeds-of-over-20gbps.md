@@ -12,7 +12,10 @@ I remember hearing about a year ago a project by Intel called "Light Peak" which
 - posted by: [geoffc](https://stackexchange.com/users/-1/34-geoffc) on 2011-04-18
 - score: 0
 
-I remember hearing about a year ago a project by Intel called "Light Peak" which boasted speeds of over 20 Gbps. Now named Thunderbolt - how does Intel achieve this amazing data speed in a flexible compact cable?
+<p>Thunderbolt uses the same basic functionality of HDMI, and has two separate channels.  One for the existing video over HDMI, and the second for an additional 10 Gbps channel.  Thus the current implementations for Macs cannot run more than two monitors over Thunderbolt.  </p>
+
+<p><a href="http://htw.stackexchange.com/questions/9/how-does-hdmi-achieve-10-gbps-speed">How does HDMI get 10 GBps</a> </p>
+
 
 
 

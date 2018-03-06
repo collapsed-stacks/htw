@@ -21,19 +21,18 @@ clarification: I am less interested in the transmission/wheels/aerodynamics effi
 - posted by: [mgb](https://stackexchange.com/users/-1/15-mgb) on 2011-04-19
 - score: 2
 
-<p>A car driving on a flat surface doesn't in theory use any energy at all!</p>
+A car driving on a flat surface doesn't in theory use any energy at all!
 
-<p>All the energy the engine uses is to overcome the rolling friction in the wheels+tires and aerodynamic drag.</p>
+All the energy the engine uses is to overcome the rolling friction in the wheels+tires and aerodynamic drag.
 
-<p>By making the wheel bearings very precise and the tires very narrow and stiff ie.high pressure - think of a road racing bicycle - you can achieve very very low rolling friction losses.</p>
+By making the wheel bearings very precise and the tires very narrow and stiff ie.high pressure - think of a road racing bicycle - you can achieve very very low rolling friction losses.
 
-<p>As in a regular car the main loss of energy is aerodynamic drag.<br>
-This is proportional to the front area of the car and a factor which is based on how streamlined the shape of the vehicle is. Which is why these cars are very small and very smooth looking.</p>
+As in a regular car the main loss of energy is aerodynamic drag.     
+This is proportional to the front area of the car and a factor which is based on how streamlined the shape of the vehicle is. Which is why these cars are very small and very smooth looking.
 
-<p>The drag is also proportional to the speed squared, to go twice as fast you need 4x as much power. Which is why these cars only move at jogging speed.</p>
+The drag is also proportional to the speed squared, to go twice as fast you need 4x as much power. Which is why these cars only move at jogging speed.
 
-<p>The battery powered cars are a separate catagory - don't know what the rules are for those</p>
-
+The battery powered cars are a separate catagory - don't know what the rules are for those
 
 
 

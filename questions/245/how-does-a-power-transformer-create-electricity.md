@@ -12,7 +12,7 @@ How does it create electricity?
 - posted by: [ursa_arcadius](https://stackexchange.com/users/-1/68-ursa-arcadius) on 2011-04-20
 - score: 2
 
-How does it create electricity?
+They do not create electricity.  They simply "transform" or convert it from one voltage to another.  For example the big ones on light-posts transform the power from a very high voltage to something much lower and usable by a common house.
 
 
 
