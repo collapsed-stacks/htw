@@ -1,0 +1,2 @@
+title: "How Things Work Stack Exchange Archive"
+exclude: ['*.xml', '*.jsonl']
